@@ -1,0 +1,16 @@
+MANIFEST.in
+README.txt
+setup.cfg
+setup.py
+alternative_splicing/BlatParser.py
+alternative_splicing/ProcessMeme.py
+alternative_splicing/__init__.py
+alternative_splicing/argparser.py
+alternative_splicing/configure.py
+alternative_splicing/extractSequence.py
+alternative_splicing/extract_upstream_sequence.py
+exon_array.egg-info/PKG-INFO
+exon_array.egg-info/SOURCES.txt
+exon_array.egg-info/dependency_links.txt
+exon_array.egg-info/not-zip-safe
+exon_array.egg-info/top_level.txt
